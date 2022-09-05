@@ -16,7 +16,7 @@ class AppProvider extends Component {
     super(props);
     this.state = {
       page: "dashboard",
-      favorites: ["BTC", "SOL", "QUICK", "XMR", "COMP"],
+      favorites: ["BNB", "XMR", "QUICK", "SOL", "BNX"],
       timeInterval: "months",
       ...this.savedSettings(),
       setPage: this.setPage,
