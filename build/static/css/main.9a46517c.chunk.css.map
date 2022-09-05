@@ -1,0 +1,1 @@
+{"version":3,"sources":["/Users/nhitran/Desktop/customized dashboard/src/App/App.css"],"names":[],"mappings":"AAAA,KAEE,yBAA0B,AAE1B,WAAa,AACb,4BAAiC,CAClC","file":"main.9a46517c.chunk.css","sourcesContent":["body {\n  /* background-color: #010e2c; */\n  background-color: #FFFAF0;\n\n  color: black;\n  font-family: \"Kanit\", sans-serif;\n}\n"]}

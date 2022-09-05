@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DefaultText should render the DefaultText Component accordingly 1`] = `
+<h1>
+  Test DataTile
+</h1>
+`;

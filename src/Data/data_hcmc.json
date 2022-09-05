@@ -1,0 +1,5813 @@
+{ "BNB": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Chánh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.1.1_1",
+		"NAME_3": "An Phú Tây",
+		"VARNAME_3": "An Phu Tay",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null,
+		"RAIN_MARCH": 5715,
+		"POPULATION": 5715
+	}
+,
+
+	"QUICK": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Chánh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.1.2_1",
+		"NAME_3": "Bình Chánh",
+		"VARNAME_3": "Binh Chanh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null,
+		"RAIN_MARCH": 3275,
+		"POPULATION": 3275
+
+
+	
+},
+
+	"XMR": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Chánh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.1.3_1",
+		"NAME_3": "Bình Hưng",
+		"VARNAME_3": "Binh Hung",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null,
+		"RAIN_MARCH": 6080,
+		"POPULATION": 6080
+
+
+},
+
+	"COMP": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Chánh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.1.4_1",
+		"NAME_3": "Bình Lợi",
+		"VARNAME_3": "Binh Loi",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null,
+		"RAIN_MARCH": 2473,
+		"POPULATION": 2473
+
+
+
+
+
+},
+	"SOL": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Chánh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.1.5_1",
+		"NAME_3": "Đa Phước",
+		"VARNAME_3": "Da Phuoc",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null,
+		"RAIN_MARCH": 8473,
+		"POPULATION": 8473
+
+
+
+},
+
+	"BNX": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Chánh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.1.6_1",
+		"NAME_3": "Hưng Long",
+		"VARNAME_3": "Hung Long",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+  
+},
+	"KSM": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Chánh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.1.7_1",
+		"NAME_3": "Lê Minh Xuân",
+		"VARNAME_3": "Le Minh Xuan",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"ZEC": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Chánh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.1.8_1",
+		"NAME_3": "Phạm Văn Hai",
+		"VARNAME_3": "Pham Van Hai",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+   
+},
+
+	"EOS": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Chánh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.1.9_1",
+		"NAME_3": "Phong Phú",
+		"VARNAME_3": "Phong Phu",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"NANAS": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Chánh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.1.10_1",
+		"NAME_3": "Quy Đức",
+		"VARNAME_3": "Quy Duc",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+ 
+},
+
+	"42": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Chánh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.1.11_1",
+		"NAME_3": "Tân Kiên",
+		"VARNAME_3": "Tan Kien",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+ 
+},
+
+	"ETH": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Chánh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.1.12_1",
+		"NAME_3": "Tân Nhựt",
+		"VARNAME_3": "Tan Nhut",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+  
+},
+
+	"BTCD": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Chánh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.1.13_1",
+		"NAME_3": "Tân Quý Tây",
+		"VARNAME_3": "Tan Quy Tay",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+  
+},
+
+	"BTC": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Chánh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.1.14_1",
+		"NAME_3": "Tân Túc",
+		"VARNAME_3": "Tan Tuc",
+		"NL_NAME_3": null,
+		"TYPE_3": "Thị trấn",
+		"ENGTYPE_3": "Townlet",
+		"CC_3": null,
+		"HASC_3": null
+   
+},
+
+	"007": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Chánh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.1.15_1",
+		"NAME_3": "Vĩnh Lộc A",
+		"VARNAME_3": "Vinh Loc A",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+ 
+},
+
+	"888": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Chánh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.1.16_1",
+		"NAME_3": "Vĩnh Lộc B",
+		"VARNAME_3": "Vinh Loc B",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"433": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Tân",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.2.1_1",
+		"NAME_3": "An Lạc",
+		"VARNAME_3": "An Lac",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+  
+},
+
+	"PRC": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Tân",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.2.2_1",
+		"NAME_3": "An Lạc A",
+		"VARNAME_3": "An Lac A",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"XBS": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Tân",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.2.3_1",
+		"NAME_3": "Bình Hưng Hòa",
+		"VARNAME_3": "Binh Hung Hoa",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"XBY": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Tân",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.2.4_1",
+		"NAME_3": "Bình Hưng Hoà A",
+		"VARNAME_3": "Binh Hung Hoa A",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"2015": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Tân",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.2.5_1",
+		"NAME_3": "Bình Hưng Hoà B",
+		"VARNAME_3": "Binh Hung Hoa B",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"CRAIG": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Tân",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.2.6_1",
+		"NAME_3": "Bình Trị Đông",
+		"VARNAME_3": "Binh Tri Dong",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+   
+},
+
+	"DEGO": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Tân",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.2.7_1",
+		"NAME_3": "Bình Trị Đông A",
+		"VARNAME_3": "Binh Tri Dong A",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+   
+},
+
+	"LUNA": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Tân",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.2.8_1",
+		"NAME_3": "Bình Trị Đông B",
+		"VARNAME_3": "Binh Tri Dong B",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"ANT": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Tân",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.2.9_1",
+		"NAME_3": "Tân Tạo",
+		"VARNAME_3": "Tan Tao",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"NEXO": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Tân",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.2.10_1",
+		"NAME_3": "Tân Tạo A",
+		"VARNAME_3": "Tan Tao A",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"DLPT": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Thạnh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.3.1_1",
+		"NAME_3": "Phường 1",
+		"VARNAME_3": "Ward 1",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"LPT": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Thạnh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.3.2_1",
+		"NAME_3": "Phường 11",
+		"VARNAME_3": "Ward 11",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"OG": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Thạnh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.3.3_1",
+		"NAME_3": "Phường 12",
+		"VARNAME_3": "Ward 12",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+  
+},
+
+	"JUV": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Thạnh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.3.4_1",
+		"NAME_3": "Phường 13",
+		"VARNAME_3": "Ward 13",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"PSG": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Thạnh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.3.5_1",
+		"NAME_3": "Phường 14",
+		"VARNAME_3": "Ward 14",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"VNM.25.3.6_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Thạnh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.3.6_1",
+		"NAME_3": "Phường 15",
+		"VARNAME_3": "Ward 15",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"VNM.25.3.7_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Thạnh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.3.7_1",
+		"NAME_3": "Phường 17",
+		"VARNAME_3": "Ward 17",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"VNM.25.3.8_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Thạnh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.3.8_1",
+		"NAME_3": "Phường 19",
+		"VARNAME_3": "Ward 19",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"VNM.25.3.9_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Thạnh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.3.9_1",
+		"NAME_3": "Phường 2",
+		"VARNAME_3": "Ward 2",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"VNM.25.3.10_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Thạnh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.3.10_1",
+		"NAME_3": "Phường 21",
+		"VARNAME_3": "Ward 21",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"VNM.25.3.11_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Thạnh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.3.11_1",
+		"NAME_3": "Phường 22",
+		"VARNAME_3": "Ward 22",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"VNM.25.3.12_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Thạnh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.3.12_1",
+		"NAME_3": "Phường 24",
+		"VARNAME_3": "Ward 24",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"VNM.25.3.13_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Thạnh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.3.13_1",
+		"NAME_3": "Phường 25",
+		"VARNAME_3": "Ward 25",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.3.14_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Thạnh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.3.14_1",
+		"NAME_3": "Phường 26",
+		"VARNAME_3": "Ward 26",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"VNM.25.3.15_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Thạnh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.3.15_1",
+		"NAME_3": "Phường 27",
+		"VARNAME_3": "Ward 27",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"VNM.25.3.16_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Thạnh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.3.16_1",
+		"NAME_3": "Phường 28",
+		"VARNAME_3": "Ward 28",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"VNM.25.3.17_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Thạnh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.3.17_1",
+		"NAME_3": "Phường 3",
+		"VARNAME_3": "Ward 3",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"VNM.25.3.18_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Thạnh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.3.18_1",
+		"NAME_3": "Phường 5",
+		"VARNAME_3": "Ward 5",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"VNM.25.3.19_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Thạnh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.3.19_1",
+		"NAME_3": "Phường 6",
+		"VARNAME_3": "Ward 6",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+
+},
+
+	"VNM.25.3.20_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Bình Thạnh",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.3.20_1",
+		"NAME_3": "Phường 7",
+		"VARNAME_3": "Ward 7",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.4.1_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Cần Giờ",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.4.1_1",
+		"NAME_3": "An Thới Đông",
+		"VARNAME_3": "An Thoi Dong",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.4.2_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Cần Giờ",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.4.2_1",
+		"NAME_3": "Bình Khánh",
+		"VARNAME_3": "Binh Khanh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.4.3_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Cần Giờ",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.4.3_1",
+		"NAME_3": "Cần Thạnh",
+		"VARNAME_3": "Can Thanh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Thị trấn",
+		"ENGTYPE_3": "Townlet",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.4.4_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Cần Giờ",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.4.4_1",
+		"NAME_3": "Long Hoà",
+		"VARNAME_3": "Long Hoa",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.4.5_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Cần Giờ",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.4.5_1",
+		"NAME_3": "Lý Nhơn",
+		"VARNAME_3": "Ly Nhon",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.4.6_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Cần Giờ",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.4.6_1",
+		"NAME_3": "Tam Thôn Hiệp",
+		"VARNAME_3": "Tam Thon Hiep",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.4.7_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Cần Giờ",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.4.7_1",
+		"NAME_3": "Thạnh An",
+		"VARNAME_3": "Thanh An",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.5.1_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Củ Chi",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.5.1_1",
+		"NAME_3": "An Nhơn Tây",
+		"VARNAME_3": "An Nhon Tay",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.5.2_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Củ Chi",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.5.2_1",
+		"NAME_3": "An Phú",
+		"VARNAME_3": "An Phu",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.5.3_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Củ Chi",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.5.3_1",
+		"NAME_3": "Bình Mỹ",
+		"VARNAME_3": "Binh My",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.5.4_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Củ Chi",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.5.4_1",
+		"NAME_3": "Củ Chi",
+		"VARNAME_3": "Cu Chi",
+		"NL_NAME_3": null,
+		"TYPE_3": "Thị trấn",
+		"ENGTYPE_3": "Townlet",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.5.5_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Củ Chi",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.5.5_1",
+		"NAME_3": "Hòa Phú",
+		"VARNAME_3": "Hoa Phu",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.5.6_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Củ Chi",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.5.6_1",
+		"NAME_3": "Nhuận Đức",
+		"VARNAME_3": "Nhuan Duc",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.5.7_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Củ Chi",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.5.7_1",
+		"NAME_3": "Phạm Văn Cội",
+		"VARNAME_3": "Pham Van Coi",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.5.8_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Củ Chi",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.5.8_1",
+		"NAME_3": "Phú Hoà Đông",
+		"VARNAME_3": "Phu Hoa Dong",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.5.9_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Củ Chi",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.5.9_1",
+		"NAME_3": "Phú Mỹ Hưng",
+		"VARNAME_3": "Phu My Hung",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.5.10_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Củ Chi",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.5.10_1",
+		"NAME_3": "Phước Hiệp",
+		"VARNAME_3": "Phuoc Hiep",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.5.11_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Củ Chi",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.5.11_1",
+		"NAME_3": "Phước Thạnh",
+		"VARNAME_3": "Phuoc Thanh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.5.12_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Củ Chi",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.5.12_1",
+		"NAME_3": "Phước Vĩnh An",
+		"VARNAME_3": "Phuoc Vinh An",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.5.13_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Củ Chi",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.5.13_1",
+		"NAME_3": "Tân An Hội",
+		"VARNAME_3": "Tan An Hoi",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.5.14_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Củ Chi",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.5.14_1",
+		"NAME_3": "Tân Phú Trung",
+		"VARNAME_3": "Tan Phu Trung",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.5.15_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Củ Chi",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.5.15_1",
+		"NAME_3": "Tân Thạnh Đông",
+		"VARNAME_3": "Tan Thanh Dong",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.5.16_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Củ Chi",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.5.16_1",
+		"NAME_3": "Tân Thạnh Tây",
+		"VARNAME_3": "Tan Thanh Tay",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.5.17_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Củ Chi",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.5.17_1",
+		"NAME_3": "Tân Thông Hội",
+		"VARNAME_3": "Tan Thong Hoi",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.5.18_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Củ Chi",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.5.18_1",
+		"NAME_3": "Thái Mỹ",
+		"VARNAME_3": "Thai My",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.5.19_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Củ Chi",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.5.19_1",
+		"NAME_3": "Trung An",
+		"VARNAME_3": "Trung An",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.5.20_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Củ Chi",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.5.20_1",
+		"NAME_3": "Trung Lập Hạ",
+		"VARNAME_3": "Trung Lap Ha",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.5.21_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Củ Chi",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.5.21_1",
+		"NAME_3": "Trung Lập Thượng",
+		"VARNAME_3": "Trung Lap Thuong",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.6.1_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Gò Vấp",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.6.1_1",
+		"NAME_3": "Phường 1",
+		"VARNAME_3": "Ward 1",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.6.2_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Gò Vấp",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.6.2_1",
+		"NAME_3": "Phường 10",
+		"VARNAME_3": "Ward 10",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.6.3_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Gò Vấp",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.6.3_1",
+		"NAME_3": "Phường 11",
+		"VARNAME_3": "Ward 11",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+	  "HASC_3": null
+	
+},
+
+	"VNM.25.6.4_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Gò Vấp",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.6.4_1",
+		"NAME_3": "Phường 12",
+		"VARNAME_3": "Ward 12",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.6.5_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Gò Vấp",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.6.5_1",
+		"NAME_3": "Phường 13",
+		"VARNAME_3": "Ward 13",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.6.6_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Gò Vấp",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.6.6_1",
+		"NAME_3": "Phường 14",
+		"VARNAME_3": "Ward 14",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.6.7_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Gò Vấp",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.6.7_1",
+		"NAME_3": "Phường 15",
+		"VARNAME_3": "Ward 15",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.6.8_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Gò Vấp",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.6.8_1",
+		"NAME_3": "Phường 16",
+		"VARNAME_3": "Ward 16",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.6.9_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Gò Vấp",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.6.9_1",
+		"NAME_3": "Phường 17",
+		"VARNAME_3": "Ward 17",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.6.10_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Gò Vấp",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.6.10_1",
+		"NAME_3": "Phường 3",
+		"VARNAME_3": "Ward 3",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.6.11_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Gò Vấp",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.6.11_1",
+		"NAME_3": "Phường 4",
+		"VARNAME_3": "Ward 4",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.6.12_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Gò Vấp",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.6.12_1",
+		"NAME_3": "Phường 5",
+		"VARNAME_3": "Ward 5",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.6.13_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Gò Vấp",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.6.13_1",
+		"NAME_3": "Phường 6",
+		"VARNAME_3": "Ward 6",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.6.14_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Gò Vấp",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.6.14_1",
+		"NAME_3": "Phường 7",
+		"VARNAME_3": "Ward 7",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.6.15_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Gò Vấp",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.6.15_1",
+		"NAME_3": "Phường 8",
+		"VARNAME_3": "Ward 8",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.6.16_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Gò Vấp",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.6.16_1",
+		"NAME_3": "Phường 9",
+		"VARNAME_3": "Ward 9",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.7.1_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Hóc Môn",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.7.1_1",
+		"NAME_3": "Bà Điểm",
+		"VARNAME_3": "Ba Diem",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.7.2_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Hóc Môn",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.7.2_1",
+		"NAME_3": "Đông Thạnh",
+		"VARNAME_3": "Dong Thanh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.7.3_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Hóc Môn",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.7.3_1",
+		"NAME_3": "Hóc Môn",
+		"VARNAME_3": "Hoc Mon",
+		"NL_NAME_3": null,
+		"TYPE_3": "Thị trấn",
+		"ENGTYPE_3": "Townlet",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.7.4_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Hóc Môn",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.7.4_1",
+		"NAME_3": "Nhị Bình",
+		"VARNAME_3": "Nhi Binh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.7.5_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Hóc Môn",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.7.5_1",
+		"NAME_3": "Tân Hiệp",
+		"VARNAME_3": "Tan Hiep",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.7.6_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Hóc Môn",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.7.6_1",
+		"NAME_3": "Tân Thới Nhì",
+		"VARNAME_3": "Tan Thoi Nhi",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.7.7_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Hóc Môn",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.7.7_1",
+		"NAME_3": "Tân Xuân",
+		"VARNAME_3": "Tan Xuan",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.7.8_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Hóc Môn",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.7.8_1",
+		"NAME_3": "Thới Tam Thôn",
+		"VARNAME_3": "Thoi Tam Thon",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.7.9_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Hóc Môn",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.7.9_1",
+		"NAME_3": "Trung Chánh",
+		"VARNAME_3": "Trung Chanh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.7.10_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Hóc Môn",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.7.10_1",
+		"NAME_3": "Xuân Thới Đông",
+		"VARNAME_3": "Xuan Thoi Dong",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.7.11_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Hóc Môn",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.7.11_1",
+		"NAME_3": "Xuân Thới Sơn",
+		"VARNAME_3": "Xuan Thoi Son",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.7.12_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Hóc Môn",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.7.12_1",
+		"NAME_3": "Xuân Thới Thượng",
+		"VARNAME_3": "Xuan Thoi Thuong",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.8.1_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Nhà Bè",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.8.1_1",
+		"NAME_3": "Hiệp Phước",
+		"VARNAME_3": "Hiep Phuoc",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.8.2_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Nhà Bè",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.8.2_1",
+		"NAME_3": "Long Thới",
+		"VARNAME_3": "Long Thoi",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.8.3_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Nhà Bè",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.8.3_1",
+		"NAME_3": "Nhà Bè",
+		"VARNAME_3": "Nha Be",
+		"NL_NAME_3": null,
+		"TYPE_3": "Thị trấn",
+		"ENGTYPE_3": "Townlet",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.8.4_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Nhà Bè",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.8.4_1",
+		"NAME_3": "Nhơn Đức",
+		"VARNAME_3": "Nhon Duc",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.8.5_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Nhà Bè",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.8.5_1",
+		"NAME_3": "Phú Xuân",
+		"VARNAME_3": "Phu Xuan",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.8.6_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Nhà Bè",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.8.6_1",
+		"NAME_3": "Phước Kiển",
+		"VARNAME_3": "Phuoc Kien",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.8.7_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Nhà Bè",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.8.7_1",
+		"NAME_3": "Phước Lộc",
+		"VARNAME_3": "Phuoc Loc",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.9.1_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Phú Nhuận",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.9.1_1",
+		"NAME_3": "Phường 1",
+		"VARNAME_3": "Ward 1",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.9.2_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Phú Nhuận",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.9.2_1",
+		"NAME_3": "Phường 10",
+		"VARNAME_3": "Ward 10",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.9.3_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Phú Nhuận",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.9.3_1",
+		"NAME_3": "Phường 11",
+		"VARNAME_3": "Ward 11",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.9.4_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Phú Nhuận",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.9.4_1",
+		"NAME_3": "Phường 12",
+		"VARNAME_3": "Ward 12",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.9.5_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Phú Nhuận",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.9.5_1",
+		"NAME_3": "Phường 13",
+		"VARNAME_3": "Ward 13",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.9.6_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Phú Nhuận",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.9.6_1",
+		"NAME_3": "Phường 14",
+		"VARNAME_3": "Ward 14",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.9.7_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Phú Nhuận",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.9.7_1",
+		"NAME_3": "Phường 15",
+		"VARNAME_3": "Ward 15",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.9.8_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Phú Nhuận",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.9.8_1",
+		"NAME_3": "Phường 17",
+		"VARNAME_3": "Ward 17",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.9.9_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Phú Nhuận",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.9.9_1",
+		"NAME_3": "Phường 2",
+		"VARNAME_3": "Ward 2",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.9.10_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Phú Nhuận",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.9.10_1",
+		"NAME_3": "Phường 3",
+		"VARNAME_3": "Ward 3",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.9.11_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Phú Nhuận",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.9.11_1",
+		"NAME_3": "Phường 4",
+		"VARNAME_3": "Ward 4",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.9.12_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Phú Nhuận",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.9.12_1",
+		"NAME_3": "Phường 5",
+		"VARNAME_3": "Ward 5",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.9.13_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Phú Nhuận",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.9.13_1",
+		"NAME_3": "Phường 7",
+		"VARNAME_3": "Ward 7",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.9.14_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Phú Nhuận",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.9.14_1",
+		"NAME_3": "Phường 8",
+		"VARNAME_3": "Ward 8",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.9.15_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Phú Nhuận",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.9.15_1",
+		"NAME_3": "Phường 9",
+		"VARNAME_3": "Ward 9",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.13.1_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 1",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.13.1_1",
+		"NAME_3": "Bến Nghé",
+		"VARNAME_3": "Ben Nghe",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.13.2_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 1",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.13.2_1",
+		"NAME_3": "Bến Thành",
+		"VARNAME_3": "Ben Thanh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.13.3_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 1",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.13.3_1",
+		"NAME_3": "Cầu kho",
+		"VARNAME_3": "Cau kho",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.13.4_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 1",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.13.4_1",
+		"NAME_3": "Cầu Ông Lãnh",
+		"VARNAME_3": "Cau Ong Lanh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+	   "HASC_3": null
+	
+},
+
+	"VNM.25.13.5_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 1",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.13.5_1",
+		"NAME_3": "Cô Giang",
+		"VARNAME_3": "Co Giang",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.13.6_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 1",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.13.6_1",
+		"NAME_3": "Đa Kao",
+		"VARNAME_3": "Da Kao",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.13.7_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 1",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.13.7_1",
+		"NAME_3": "Nguyễn Cư Trinh",
+		"VARNAME_3": "Nguyen Cu Trinh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.13.8_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 1",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.13.8_1",
+		"NAME_3": "Nguyễn Thái Bình",
+		"VARNAME_3": "Nguyen Thai Binh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.13.9_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 1",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.13.9_1",
+		"NAME_3": "Phạm Ngũ Lão",
+		"VARNAME_3": "Pham Ngu Lao",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.13.10_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 1",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.13.10_1",
+		"NAME_3": "Tân Định",
+		"VARNAME_3": "Tan Dinh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.10.1_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 10",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.10.1_1",
+		"NAME_3": "Phường 1",
+		"VARNAME_3": "Ward 1",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.10.2_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 10",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.10.2_1",
+		"NAME_3": "Phường 10",
+		"VARNAME_3": "Ward 10",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.10.3_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 10",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.10.3_1",
+		"NAME_3": "Phường 11",
+		"VARNAME_3": "Ward 11",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.10.4_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 10",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.10.4_1",
+		"NAME_3": "Phường 12",
+		"VARNAME_3": "Ward 12",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.10.5_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 10",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.10.5_1",
+		"NAME_3": "Phường 13",
+		"VARNAME_3": "Ward 13",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.10.6_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 10",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.10.6_1",
+		"NAME_3": "Phường 14",
+		"VARNAME_3": "Ward 14",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.10.7_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 10",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.10.7_1",
+		"NAME_3": "Phường 15",
+		"VARNAME_3": "Ward 15",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.10.8_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 10",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.10.8_1",
+		"NAME_3": "Phường 2",
+		"VARNAME_3": "Ward 2",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.10.9_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 10",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.10.9_1",
+		"NAME_3": "Phường 3",
+		"VARNAME_3": "Ward 3",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.10.10_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 10",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.10.10_1",
+		"NAME_3": "Phường 4",
+		"VARNAME_3": "Ward 4",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.10.11_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 10",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.10.11_1",
+		"NAME_3": "Phường 5",
+		"VARNAME_3": "Ward 5",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.10.12_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 10",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.10.12_1",
+		"NAME_3": "Phường 6",
+		"VARNAME_3": "Ward 6",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.10.13_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 10",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.10.13_1",
+		"NAME_3": "Phường 7",
+		"VARNAME_3": "Ward 7",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.10.14_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 10",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.10.14_1",
+		"NAME_3": "Phường 8",
+		"VARNAME_3": "Ward 8",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.10.15_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 10",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.10.15_1",
+		"NAME_3": "Phường 9",
+		"VARNAME_3": "Ward 9",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.11.1_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 11",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.11.1_1",
+		"NAME_3": "Phường 1",
+		"VARNAME_3": "Ward 1",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.11.2_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 11",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.11.2_1",
+		"NAME_3": "Phường 10",
+		"VARNAME_3": "Ward 10",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.11.3_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 11",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.11.3_1",
+		"NAME_3": "Phường 11",
+		"VARNAME_3": "Ward 11",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.11.4_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 11",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.11.4_1",
+		"NAME_3": "Phường 12",
+		"VARNAME_3": "Ward 12",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.11.5_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 11",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.11.5_1",
+		"NAME_3": "Phường 13",
+		"VARNAME_3": "Ward 13",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.11.6_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 11",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.11.6_1",
+		"NAME_3": "Phường 14",
+		"VARNAME_3": "Ward 14",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.11.7_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 11",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.11.7_1",
+		"NAME_3": "Phường 15",
+		"VARNAME_3": "Ward 15",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.11.8_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 11",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.11.8_1",
+		"NAME_3": "Phường 16",
+		"VARNAME_3": "Ward 16",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.11.9_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 11",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.11.9_1",
+		"NAME_3": "Phường 2",
+		"VARNAME_3": "Ward 2",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.11.10_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 11",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.11.10_1",
+		"NAME_3": "Phường 3",
+		"VARNAME_3": "Ward 3",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.11.11_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 11",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.11.11_1",
+		"NAME_3": "Phường 4",
+		"VARNAME_3": "Ward 4",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.11.12_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 11",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.11.12_1",
+		"NAME_3": "Phường 5",
+		"VARNAME_3": "Ward 5",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.11.13_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 11",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.11.13_1",
+		"NAME_3": "Phường 6",
+		"VARNAME_3": "Ward 6",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.11.14_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 11",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.11.14_1",
+		"NAME_3": "Phường 7",
+		"VARNAME_3": "Ward 7",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.11.15_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 11",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.11.15_1",
+		"NAME_3": "Phường 8",
+		"VARNAME_3": "Ward 8",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.11.16_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 11",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.11.16_1",
+		"NAME_3": "Phường 9",
+		"VARNAME_3": "Ward 9",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.12.1_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 12",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.12.1_1",
+		"NAME_3": "An Phú Đông",
+		"VARNAME_3": "An Phu Dong",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.12.2_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 12",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.12.2_1",
+		"NAME_3": "Đông Hưng Thuận",
+		"VARNAME_3": "Dong Hung Thuan",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.12.3_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 12",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.12.3_1",
+		"NAME_3": "Hiệp Thành",
+		"VARNAME_3": "Hiep Thanh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.12.4_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 12",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.12.4_1",
+		"NAME_3": "Tân Chánh Hiệp",
+		"VARNAME_3": "Tan Chanh Hiep",
+		"NL_NAME_3": null,
+		"TYPE_3": "Xã",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.12.5_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 12",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.12.5_1",
+		"NAME_3": "Tân Hưng Thuận",
+		"VARNAME_3": "Tan Hung Thuan",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.12.6_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 12",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.12.6_1",
+		"NAME_3": "Tân Thới Hiệp",
+		"VARNAME_3": "Tan Thoi Hiep",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.12.7_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 12",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.12.7_1",
+		"NAME_3": "Tân Thới Nhất",
+		"VARNAME_3": "Tan Thoi Nhat",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.12.8_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 12",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.12.8_1",
+		"NAME_3": "Thạnh Lộc",
+		"VARNAME_3": "Thanh Loc",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.12.9_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 12",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.12.9_1",
+		"NAME_3": "Thạnh Xuân",
+		"VARNAME_3": "Thanh Xuan",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.12.10_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 12",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.12.10_1",
+		"NAME_3": "Thới An",
+		"VARNAME_3": "Thoi An",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.12.11_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 12",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.12.11_1",
+		"NAME_3": "Trung Mỹ Tây",
+		"VARNAME_3": "Trung My Tay",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.14.1_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 2",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.14.1_1",
+		"NAME_3": "An Khánh",
+		"VARNAME_3": "An Khanh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.14.2_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 2",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.14.2_1",
+		"NAME_3": "An Lợi Đông",
+		"VARNAME_3": "An Loi Dong",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.14.3_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 2",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.14.3_1",
+		"NAME_3": "An Phú",
+		"VARNAME_3": "An Phu",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.14.4_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 2",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.14.4_1",
+		"NAME_3": "Bình An",
+		"VARNAME_3": "Binh An",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.14.5_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 2",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.14.5_1",
+		"NAME_3": "Bình Khánh",
+		"VARNAME_3": "Binh Khanh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.14.6_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 2",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.14.6_1",
+		"NAME_3": "Bình Trưng Đông",
+		"VARNAME_3": "Binh Trung Dong",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.14.7_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 2",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.14.7_1",
+		"NAME_3": "Bình Trưng Tây",
+		"VARNAME_3": "Binh Trung Tay",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.14.8_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 2",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.14.8_1",
+		"NAME_3": "Cát Lái",
+		"VARNAME_3": "Cat Lai",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.14.9_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 2",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.14.9_1",
+		"NAME_3": "Thạnh Mỹ Lợi",
+		"VARNAME_3": "Thanh My Loi",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.14.10_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 2",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.14.10_1",
+		"NAME_3": "Thảo Điền",
+		"VARNAME_3": "Thao Dien",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.14.11_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 2",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.14.11_1",
+		"NAME_3": "Thủ Thiêm",
+		"VARNAME_3": "Thu Thiem",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.15.1_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 3",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.15.1_1",
+		"NAME_3": "Phường 1",
+		"VARNAME_3": "Ward 1",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+   "VNM.25.15.2_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 3",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.15.2_1",
+		"NAME_3": "Phường 10",
+		"VARNAME_3": "Ward 10",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.15.3_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 3",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.15.3_1",
+		"NAME_3": "Phường 11",
+		"VARNAME_3": "Ward 11",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.15.4_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 3",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.15.4_1",
+		"NAME_3": "Phường 12",
+		"VARNAME_3": "Ward 12",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.15.5_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 3",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.15.5_1",
+		"NAME_3": "Phường 13",
+		"VARNAME_3": "Ward 13",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.15.6_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 3",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.15.6_1",
+		"NAME_3": "Phường 14",
+		"VARNAME_3": "Ward 14",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.15.7_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 3",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.15.7_1",
+		"NAME_3": "Phường 2",
+		"VARNAME_3": "Ward 2",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.15.8_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 3",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.15.8_1",
+		"NAME_3": "Phường 3",
+		"VARNAME_3": "Ward 3",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.15.9_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 3",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.15.9_1",
+		"NAME_3": "Phường 4",
+		"VARNAME_3": "Ward 4",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.15.10_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 3",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.15.10_1",
+		"NAME_3": "Phường 5",
+		"VARNAME_3": "Ward 5",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.15.11_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 3",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.15.11_1",
+		"NAME_3": "Phường 6",
+		"VARNAME_3": "Ward 6",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.15.12_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 3",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.15.12_1",
+		"NAME_3": "Phường 7",
+		"VARNAME_3": "Ward 7",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.15.13_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 3",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.15.13_1",
+		"NAME_3": "Phường 8",
+		"VARNAME_3": "Ward 8",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.15.14_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 3",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.15.14_1",
+		"NAME_3": "Phường 9",
+		"VARNAME_3": "Ward 9",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.16.1_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 4",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.16.1_1",
+		"NAME_3": "Phường 1",
+		"VARNAME_3": "Ward 1",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.16.2_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 4",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.16.2_1",
+		"NAME_3": "Phường 10",
+		"VARNAME_3": "Ward 10",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.16.3_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 4",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.16.3_1",
+		"NAME_3": "Phường 12",
+		"VARNAME_3": "Ward 12",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.16.4_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 4",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.16.4_1",
+		"NAME_3": "Phường 13",
+		"VARNAME_3": "Ward 13",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.16.5_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 4",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.16.5_1",
+		"NAME_3": "Phường 14",
+		"VARNAME_3": "Ward 14",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.16.6_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 4",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.16.6_1",
+		"NAME_3": "Phường 15",
+		"VARNAME_3": "Ward 15",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.16.7_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 4",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.16.7_1",
+		"NAME_3": "Phường 16",
+		"VARNAME_3": "Ward 16",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.16.8_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 4",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.16.8_1",
+		"NAME_3": "Phường 18",
+		"VARNAME_3": "Ward 18",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.16.9_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 4",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.16.9_1",
+		"NAME_3": "Phường 2",
+		"VARNAME_3": "Ward 2",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.16.10_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 4",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.16.10_1",
+		"NAME_3": "Phường 3",
+		"VARNAME_3": "Ward 3",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.16.11_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 4",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.16.11_1",
+		"NAME_3": "Phường 4",
+		"VARNAME_3": "Ward 4",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.16.12_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 4",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.16.12_1",
+		"NAME_3": "Phường 5",
+		"VARNAME_3": "Ward 5",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.16.13_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 4",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.16.13_1",
+		"NAME_3": "Phường 6",
+		"VARNAME_3": "Ward 6",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.16.14_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 4",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.16.14_1",
+		"NAME_3": "Phường 8",
+		"VARNAME_3": "Ward 8",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.16.15_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 4",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.16.15_1",
+		"NAME_3": "Phường 9",
+		"VARNAME_3": "Ward 9",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.17.1_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 5",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.17.1_1",
+		"NAME_3": "Phường 1",
+		"VARNAME_3": "Ward 1",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.17.2_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 5",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.17.2_1",
+		"NAME_3": "Phường 10",
+		"VARNAME_3": "Ward 10",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.17.3_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 5",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.17.3_1",
+		"NAME_3": "Phường 11",
+		"VARNAME_3": "Ward 11",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.17.4_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 5",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.17.4_1",
+		"NAME_3": "Phường 12",
+		"VARNAME_3": "Ward 12",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.17.5_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 5",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.17.5_1",
+		"NAME_3": "Phường 13",
+		"VARNAME_3": "Ward 13",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.17.6_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 5",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.17.6_1",
+		"NAME_3": "Phường 14",
+		"VARNAME_3": "Ward 14",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.17.7_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 5",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.17.7_1",
+		"NAME_3": "Phường 15",
+		"VARNAME_3": "Ward 15",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.17.8_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 5",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.17.8_1",
+		"NAME_3": "Phường 2",
+		"VARNAME_3": "Ward 2",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.17.9_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 5",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.17.9_1",
+		"NAME_3": "Phường 3",
+		"VARNAME_3": "Ward 3",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.17.10_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 5",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.17.10_1",
+		"NAME_3": "Phường 4",
+		"VARNAME_3": "Ward 4",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.17.11_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 5",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.17.11_1",
+		"NAME_3": "Phường 5",
+		"VARNAME_3": "Ward 5",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.17.12_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 5",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.17.12_1",
+		"NAME_3": "Phường 6",
+		"VARNAME_3": "Ward 6",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.17.13_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 5",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.17.13_1",
+		"NAME_3": "Phường 7",
+		"VARNAME_3": "Ward 7",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.17.14_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 5",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.17.14_1",
+		"NAME_3": "Phường 8",
+		"VARNAME_3": "Ward 8",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.17.15_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 5",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.17.15_1",
+		"NAME_3": "Phường 9",
+		"VARNAME_3": "Ward 9",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.18.1_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 6",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.18.1_1",
+		"NAME_3": "Phường 1",
+		"VARNAME_3": "Ward 1",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.18.2_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 6",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.18.2_1",
+		"NAME_3": "Phường 10",
+		"VARNAME_3": "Ward 10",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.18.3_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 6",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.18.3_1",
+		"NAME_3": "Phường 11",
+		"VARNAME_3": "Ward 11",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.18.4_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 6",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.18.4_1",
+		"NAME_3": "Phường 12",
+		"VARNAME_3": "Ward 12",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.18.5_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 6",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.18.5_1",
+		"NAME_3": "Phường 13",
+		"VARNAME_3": "Ward 13",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.18.6_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 6",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.18.6_1",
+		"NAME_3": "Phường 14",
+		"VARNAME_3": "Ward 14",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.18.7_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 6",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.18.7_1",
+		"NAME_3": "Phường 2",
+		"VARNAME_3": "Ward 2",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.18.8_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 6",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.18.8_1",
+		"NAME_3": "Phường 3",
+		"VARNAME_3": "Ward 3",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.18.9_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 6",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.18.9_1",
+		"NAME_3": "Phường 4",
+		"VARNAME_3": "Ward 4",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.18.10_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 6",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.18.10_1",
+		"NAME_3": "Phường 5",
+		"VARNAME_3": "Ward 5",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.18.11_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 6",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.18.11_1",
+		"NAME_3": "Phường 6",
+		"VARNAME_3": "Ward 6",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.18.12_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 6",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.18.12_1",
+		"NAME_3": "Phường 7",
+		"VARNAME_3": "Ward 7",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.18.13_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 6",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.18.13_1",
+		"NAME_3": "Phường 8",
+		"VARNAME_3": "Ward 8",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.18.14_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 6",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.18.14_1",
+		"NAME_3": "Phường 9",
+		"VARNAME_3": "Ward 9",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.19.1_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 7",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.19.1_1",
+		"NAME_3": "Bình Thuận",
+		"VARNAME_3": "Binh Thuan",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.19.2_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 7",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.19.2_1",
+		"NAME_3": "Phú Mỹ",
+		"VARNAME_3": "Phu My",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.19.3_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 7",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.19.3_1",
+		"NAME_3": "Phú Thuận",
+		"VARNAME_3": "Phu Thuan",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.19.4_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 7",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.19.4_1",
+		"NAME_3": "Tân Hưng",
+		"VARNAME_3": "Tan Hung",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.19.5_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 7",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.19.5_1",
+		"NAME_3": "Tân Kiểng",
+		"VARNAME_3": "Tan Kieng",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"AAVE": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 7",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.19.6_1",
+		"NAME_3": "Tân Phong",
+		"VARNAME_3": "Tan Phong",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.19.7_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 7",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.19.7_1",
+		"NAME_3": "Tân Phú",
+		"VARNAME_3": "Tan Phu",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.19.8_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 7",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.19.8_1",
+		"NAME_3": "Tân Quy",
+		"VARNAME_3": "Tan Quy",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.19.9_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 7",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.19.9_1",
+		"NAME_3": "Tân Thuận Đông",
+		"VARNAME_3": "Tan Thuan Dong",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.19.10_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 7",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.19.10_1",
+		"NAME_3": "Tân Thuận Tây",
+		"VARNAME_3": "Tan Thuan Tay",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.20.1_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 8",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.20.1_1",
+		"NAME_3": "Phường 1",
+		"VARNAME_3": "Ward 1",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.20.2_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 8",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.20.2_1",
+		"NAME_3": "Phường 10",
+		"VARNAME_3": "Ward 10",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.20.3_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 8",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.20.3_1",
+		"NAME_3": "Phường 11",
+		"VARNAME_3": "Ward 11",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.20.4_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 8",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.20.4_1",
+		"NAME_3": "Phường 12",
+		"VARNAME_3": "Ward 12",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.20.5_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 8",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.20.5_1",
+		"NAME_3": "Phường 13",
+		"VARNAME_3": "Ward 13",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.20.6_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 8",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.20.6_1",
+		"NAME_3": "Phường 14",
+		"VARNAME_3": "Ward 14",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.20.7_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 8",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.20.7_1",
+		"NAME_3": "Phường 15",
+		"VARNAME_3": "Ward 15",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.20.8_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 8",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.20.8_1",
+		"NAME_3": "Phường 16",
+		"VARNAME_3": "Ward 16",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.20.9_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 8",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.20.9_1",
+		"NAME_3": "Phường 2",
+		"VARNAME_3": "Ward 2",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.20.10_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 8",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.20.10_1",
+		"NAME_3": "Phường 3",
+		"VARNAME_3": "Ward 3",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.20.11_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 8",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.20.11_1",
+		"NAME_3": "Phường 4",
+		"VARNAME_3": "Ward 4",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"DCR": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 8",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.20.12_1",
+		"NAME_3": "Phường 5",
+		"VARNAME_3": "Ward 5",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.20.13_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 8",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.20.13_1",
+		"NAME_3": "Phường 6",
+		"VARNAME_3": "Ward 6",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.20.14_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 8",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.20.14_1",
+		"NAME_3": "Phường 7",
+		"VARNAME_3": "Ward 7",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.20.15_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 8",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.20.15_1",
+		"NAME_3": "Phường 8",
+		"VARNAME_3": "Ward 8",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.20.16_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 8",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.20.16_1",
+		"NAME_3": "Phường 9",
+		"VARNAME_3": "Ward 9",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.21.1_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 9",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.21.1_1",
+		"NAME_3": "Hiệp Phú",
+		"VARNAME_3": "Hiep Phu",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.21.2_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 9",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.21.2_1",
+		"NAME_3": "Long Bình",
+		"VARNAME_3": "Long Binh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.21.3_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 9",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.21.3_1",
+		"NAME_3": "Long Phước",
+		"VARNAME_3": "Long Phuoc",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.21.4_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 9",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.21.4_1",
+		"NAME_3": "Long Thạnh Mỹ",
+		"VARNAME_3": "Long Thanh My",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.21.5_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 9",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.21.5_1",
+		"NAME_3": "Long Trường",
+		"VARNAME_3": "Long Truong",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.21.6_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 9",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.21.6_1",
+		"NAME_3": "Phú Hữu",
+		"VARNAME_3": "Phu Huu",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.21.7_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 9",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.21.7_1",
+		"NAME_3": "Phước Bình",
+		"VARNAME_3": "Phuoc Binh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.21.8_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 9",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.21.8_1",
+		"NAME_3": "Phước Long A",
+		"VARNAME_3": "Phuoc Long A",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.21.9_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 9",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.21.9_1",
+		"NAME_3": "Phước Long B",
+		"VARNAME_3": "Phuoc Long B",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.21.10_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 9",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.21.10_1",
+		"NAME_3": "Tân Phú",
+		"VARNAME_3": "Tan Phu",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.21.11_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 9",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.21.11_1",
+		"NAME_3": "Tăng Nhơn Phú A",
+		"VARNAME_3": "Tang Nhon Phu A",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.21.12_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 9",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.21.12_1",
+		"NAME_3": "Tăng Nhơn Phú B",
+		"VARNAME_3": "Tang Nhon Phu B",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.21.13_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Quận 9",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.21.13_1",
+		"NAME_3": "Trường Thạnh",
+		"VARNAME_3": "Truong Thanh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.22.1_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Bình",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.22.1_1",
+		"NAME_3": "Phường 1",
+		"VARNAME_3": "Ward 1",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.22.2_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Bình",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.22.2_1",
+		"NAME_3": "Phường 10",
+		"VARNAME_3": "Ward 10",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.22.3_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Bình",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.22.3_1",
+		"NAME_3": "Phường 11",
+		"VARNAME_3": "Ward 11",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.22.4_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Bình",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.22.4_1",
+		"NAME_3": "Phường 12",
+		"VARNAME_3": "Ward 12",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.22.5_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Bình",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.22.5_1",
+		"NAME_3": "Phường 13",
+		"VARNAME_3": "Ward 13",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.22.6_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Bình",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.22.6_1",
+		"NAME_3": "Phường 14",
+		"VARNAME_3": "Ward 14",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.22.7_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Bình",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.22.7_1",
+		"NAME_3": "Phường 15",
+		"VARNAME_3": "Ward 15",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.22.8_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Bình",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.22.8_1",
+		"NAME_3": "Phường 2",
+		"VARNAME_3": "Ward 2",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.22.9_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Bình",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.22.9_1",
+		"NAME_3": "Phường 3",
+		"VARNAME_3": "Ward 3",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.22.10_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Bình",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.22.10_1",
+		"NAME_3": "Phường 4",
+		"VARNAME_3": "Ward 4",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.22.11_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Bình",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.22.11_1",
+		"NAME_3": "Phường 5",
+		"VARNAME_3": "Ward 5",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.22.12_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Bình",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.22.12_1",
+		"NAME_3": "Phường 6",
+		"VARNAME_3": "Ward 6",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.22.13_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Bình",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.22.13_1",
+		"NAME_3": "Phường 7",
+		"VARNAME_3": "Ward 7",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.22.14_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Bình",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.22.14_1",
+		"NAME_3": "Phường 8",
+		"VARNAME_3": "Ward 8",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.22.15_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Bình",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.22.15_1",
+		"NAME_3": "Phường 9",
+		"VARNAME_3": "Ward 9",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.23.1_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Phú",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.23.1_1",
+		"NAME_3": "Hiệp Tân",
+		"VARNAME_3": "Hiep Tan",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.23.2_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Phú",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.23.2_1",
+		"NAME_3": "Hoà Thạnh",
+		"VARNAME_3": "Hoa Thanh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.23.3_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Phú",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.23.3_1",
+		"NAME_3": "Phú Thạnh",
+		"VARNAME_3": "Phu Thanh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.23.4_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Phú",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.23.4_1",
+		"NAME_3": "Phú Thọ Hòa",
+		"VARNAME_3": "Phu Tho Hoa",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.23.5_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Phú",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.23.5_1",
+		"NAME_3": "Phú Trung",
+		"VARNAME_3": "Phu Trung",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.23.6_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Phú",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.23.6_1",
+		"NAME_3": "Sơn Kỳ",
+		"VARNAME_3": "Son Ky",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.23.7_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Phú",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.23.7_1",
+		"NAME_3": "Tân Quý",
+		"VARNAME_3": "Tan Quy",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.23.8_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Phú",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.23.8_1",
+		"NAME_3": "Tân Sơn Nhì",
+		"VARNAME_3": "Tan Son Nhi",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.23.10_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Phú",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.23.10_1",
+		"NAME_3": "Tân Thành",
+		"VARNAME_3": "Tan Thanh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.23.9_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Phú",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.23.9_1",
+		"NAME_3": "Tân Thới Hoà",
+		"VARNAME_3": "Tan Thoi Hoa",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.23.11_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Tân Phú",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.23.11_1",
+		"NAME_3": "Tây Thạnh",
+		"VARNAME_3": "Tay Thanh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.24.1_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Thủ Đức",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.24.1_1",
+		"NAME_3": "Bình Chiểu",
+		"VARNAME_3": "Binh Chieu",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.24.2_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Thủ Đức",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.24.2_1",
+		"NAME_3": "Bình Thọ",
+		"VARNAME_3": "Binh Tho",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.24.3_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Thủ Đức",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.24.3_1",
+		"NAME_3": "Hiệp Bình Chánh",
+		"VARNAME_3": "Hiep Binh Chanh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.24.4_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Thủ Đức",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.24.4_1",
+		"NAME_3": "Hiệp Bình Phước",
+		"VARNAME_3": "Hiep Binh Phuoc",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.24.5_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Thủ Đức",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.24.5_1",
+		"NAME_3": "Linh Chiểu",
+		"VARNAME_3": "Linh Chieu",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.24.6_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Thủ Đức",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.24.6_1",
+		"NAME_3": "Linh Đông",
+		"VARNAME_3": "Linh Dong",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.24.7_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Thủ Đức",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.24.7_1",
+		"NAME_3": "Linh Tây",
+		"VARNAME_3": "Linh Tay",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.24.8_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Thủ Đức",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.24.8_1",
+		"NAME_3": "Linh Trung",
+		"VARNAME_3": "Linh Trung",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.24.9_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Thủ Đức",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.24.9_1",
+		"NAME_3": "Linh Xuân",
+		"VARNAME_3": "Linh Xuan",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.24.10_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Thủ Đức",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.24.10_1",
+		"NAME_3": "Tam Bình",
+		"VARNAME_3": "Tam Binh",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.24.11_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Thủ Đức",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.24.11_1",
+		"NAME_3": "Tam Phú",
+		"VARNAME_3": "Tam Phu",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+},
+
+	"VNM.25.24.12_1": {
+		"ID_0": "VNM",
+		"COUNTRY": "Vietnam",
+		"NAME_1": "Hồ Chí Minh",
+		"NL_NAME_1": null,
+		"NAME_2": "Thủ Đức",
+		"NL_NAME_2": null,
+		"ID_3": "VNM.25.24.12_1",
+		"NAME_3": "Trường Thọ",
+		"VARNAME_3": "Truong Tho",
+		"NL_NAME_3": null,
+		"TYPE_3": "Phường",
+		"ENGTYPE_3": "Ward",
+		"CC_3": null,
+		"HASC_3": null
+	
+} 
+}
